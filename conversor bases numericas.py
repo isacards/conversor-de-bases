@@ -1,4 +1,3 @@
-#programa que leia um número inteiro qualquer e peça para usuario escolher a base de conversão
 num = int(input("Digite um número inteiro: "))
 print("""Escolha uma das bases para conversão:
     [ 1 ] converter para BINÁRIO
